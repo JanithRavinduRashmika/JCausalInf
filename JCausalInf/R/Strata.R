@@ -1,1 +1,4 @@
-paste("Hello")
+Strata <- function() {
+  # This is starata
+}
+
