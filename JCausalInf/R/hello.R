@@ -16,3 +16,7 @@
 hello <- function() {
   print("Hello, world Janith123!")
 }
+
+jan = function(){
+  print("Janith")
+}
