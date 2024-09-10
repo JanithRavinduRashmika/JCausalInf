@@ -7,3 +7,6 @@ DiffMean()
 \description{
 Prints 'Hello, world!'.
 }
+\examples{
+DiffMean(T, Y, n)
+}
