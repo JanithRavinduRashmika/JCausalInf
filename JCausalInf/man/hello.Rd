@@ -7,6 +7,13 @@ hello()
 \description{
 Prints 'Hello, world!'.
 }
-\examples{
-hello()
+
+\name{ddd}
+\alias{dd}
+\title{Hello, dd!}
+\usage{
+dd()
+}
+\description{
+Prints 'dd, world!'.
 }
