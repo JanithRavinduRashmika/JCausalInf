@@ -1,12 +1,12 @@
 \name{TreatmentAssignment}
 \alias{TreatmentAssignment}
-\title{TreatmentAssignment, World!}
+\title{TreatmentAssignment}
 \usage{
-TreatmentAssignment()
+TreatmentAssignment(n, n1)
 }
 \description{
-Prints 'Hello, TreatmentAssignment!'.
+Give CRT assignment for n individuals n1 selection
 }
 \examples{
-TreatmentAssignment()
+TreatmentAssignment(n,n1)
 }

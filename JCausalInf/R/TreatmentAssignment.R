@@ -1,4 +1,4 @@
-trtassignment<- function(n,n1) {
+TreatmentAssignment<- function(n,n1) {
   M<-choose(n,n1)
   treat.index<-combn(n,n1)
   A<-matrix(0,n,M)
