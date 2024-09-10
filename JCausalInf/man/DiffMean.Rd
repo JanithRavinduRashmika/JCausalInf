@@ -1,6 +1,6 @@
 \name{DiffMean}
 \alias{DiffMean}
-\title{Hello, World!}
+\title{DiffMean(T, Y, n)}
 \usage{
 DiffMean()
 }

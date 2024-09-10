@@ -1,6 +1,6 @@
 \name{TreatmentAssignment}
 \alias{TreatmentAssignment}
-\title{TreatmentAssignment}
+\title{TreatmentAssignment(n, n1)}
 \usage{
 TreatmentAssignment(n, n1)
 }
