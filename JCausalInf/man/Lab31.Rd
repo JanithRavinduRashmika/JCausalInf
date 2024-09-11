@@ -1,8 +1,8 @@
-\name{Lab6}
-\alias{Lab6}
-\title{Lab6()}
+\name{Lab31}
+\alias{Lab31}
+\title{Lab31()}
 \usage{
-Lab6()
+Lab31()
 }
 \description{
 Prints 'Hello, world!'.

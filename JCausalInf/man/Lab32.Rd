@@ -1,6 +1,6 @@
-\name{Lab6}
-\alias{Lab6}
-\title{Lab6()}
+\name{Lab32}
+\alias{Lab32}
+\title{Lab32()}
 \usage{
 Lab6()
 }
